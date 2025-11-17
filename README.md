@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/hacker-banner.jpg" width="100%" />
+
 </p>
 
 <h1 align="center">💀 Gopi Krishna | Cybersecurity & Offensive Security 💻</h1>
 
 <p align="center">
-  <img src="assets/hacker-working.jpg" width="400px" />
+  
 </p>
 
 ---
@@ -83,7 +83,7 @@
 ## 🕶️ Aesthetic Hackerspace Footer
 
 <p align="center">
-  <img src="assets/hacker-anonymous.jpg" width="300px"/>
+  
 </p>
 
 <p align="center">
